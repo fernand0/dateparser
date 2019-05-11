@@ -113,31 +113,57 @@
     ],
     "relative-type": {
         "1 year ago": [
-            "el año pasado"
+            "el año pasado",
+            "el pasado año",
+            "hace un año"
         ],
         "0 year ago": [
             "este año"
         ],
         "in 1 year": [
-            "el próximo año"
+            "el próximo año",
+            "el año próximo",
+            "próximo año",
+            "año próximo",
+            "el año que viene",
+            "dentro de un año"
         ],
         "1 month ago": [
-            "el mes pasado"
+            "el mes pasado",
+            "el pasado mes",
+            "hace un mes"
         ],
         "0 month ago": [
             "este mes"
         ],
         "in 1 month": [
-            "el próximo mes"
+            "el próximo mes",
+            "el mes próximo",
+            "próximo mes",
+            "mes próximo",
+            "el siguiente mes",
+            "el mes siguiente",
+            "siguiente mes",
+            "mes siguiente",
+            "el mes que viene"
         ],
         "1 week ago": [
-            "la semana pasada"
+            "la semana pasada",
+            "la pasada semana",
+            "semana pasada",
+            "pasada semana",
+            "hace una semana"
         ],
         "0 week ago": [
             "esta semana"
         ],
         "in 1 week": [
-            "la próxima semana"
+            "la próxima semana",
+            "la semana próxima",
+            "próxima semana",
+            "semana próxima",
+            "la semana que viene",
+            "dentro de una semana"
         ],
         "1 day ago": [
             "ayer"
